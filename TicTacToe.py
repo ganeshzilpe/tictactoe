@@ -6,7 +6,7 @@
 #
 # Created:     08/06/2015
 # Copyright:   (c) Dev1 2015
-# Licence:     Feely Available
+# Licence:     Freely Available
 #-------------------------------------------------------------------------------
 
 import random, pygame, sys
